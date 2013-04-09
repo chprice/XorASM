@@ -1,0 +1,5 @@
+Channon Price
+CS301 2010
+Project 1, finalish draft
+
+This is a program for encrypting a string by sequentially xoring it with a password, character by character. The last input is for a bit to determine if the string should be encoded (1) or decrypted (0) by the password.
